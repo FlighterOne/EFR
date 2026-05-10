@@ -4,10 +4,10 @@
 title = Mortgage Calculator
 
 # (str) Package name
-package.name = mortgagecalculator
+package.name = EasyFitnessRussia
 
 # (str) Package domain (needed for android/ios packaging)
-package.domain = org.wiseplat
+package.domain = org.FlighterOne
 
 # (str) Source code where the main.py live
 source.dir = .
